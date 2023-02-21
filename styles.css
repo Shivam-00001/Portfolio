@@ -123,7 +123,7 @@ border-radius: 30%;
 /* .........................about.................. */
 #about{
 	padding: 80px 0px;
-	color:#555;
+	color:#ababab;
 }
 .row{
 	display: flex;
@@ -131,24 +131,20 @@ border-radius: 30%;
 	flex-wrap: wrap;
 }
 .about-col-1{
-	flex-basis: 20%;
-	border-radius: 30%;
-	
+	flex-basis: 35%;
 }
 .about-col-1 img{
-	
-	width: 110%;
+	width: 100%;
 	border-radius: 15px;
-    margin-left: 30%;
 }
 .about-col-2{
 	flex-basis: 60%;
-	margin-left: 20%;
-margin-top: 12%;
+	margin-left: 50px;
+
 }.sub-title{
 	font-size: 60px;
 	font-weight: 600px;
-	color:light blue;
+	color:#fff;
 }
 .tab-titles{
 	display: flex;
